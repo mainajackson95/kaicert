@@ -1,5 +1,3 @@
-**Updated KAICERT Description with Installation Guide**  
-
 ---
 
 # **KAICERT**  
