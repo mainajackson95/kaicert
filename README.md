@@ -25,7 +25,7 @@ brew install curl jq
 
 ### **2. Clone the Repository**  
 ```bash  
-git clone https://github.com/mainajackson95/KAICERT.git  
+git clone https://github.com/mainajackson95/kaicert.git  
 cd KAICERT  
 ```  
 
@@ -39,7 +39,7 @@ chmod +x kaicert.sh
 ### **Alternative: One-Click Install Script**  
 Run this command to **auto-install dependencies and KAICERT**:  
 ```bash  
-curl -sSL https://raw.githubusercontent.com/yourusername/KAICERT/main/install.sh | bash  
+curl -sSL https://raw.githubusercontent.com/maina95/kaicert/main/install.sh | bash  
 ```  
 
 ---
