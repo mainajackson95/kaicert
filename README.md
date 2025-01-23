@@ -77,4 +77,6 @@ jq --version      # Should show jq-1.6+
 
 ---
 
-![Demo](https://via.placeholder.com/600x200?text=KAICERT+Terminal+Demo)  
+![Demo](https://github.com/mainajackson95/kaicert/blob/main/ss/Screenshot_2025-01-23_19-48-50.jpg)
+![Demo](https://github.com/mainajackson95/kaicert/blob/main/ss/Screenshot_2025-01-23_19-51-11.jpg)  
+
