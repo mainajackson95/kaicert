@@ -29,7 +29,7 @@ brew install curl jq
 
 ### **2. Clone the Repository**  
 ```bash  
-git clone https://github.com/yourusername/KAICERT.git  
+git clone https://github.com/mainajackson95/KAICERT.git  
 cd KAICERT  
 ```  
 
@@ -78,4 +78,3 @@ jq --version      # Should show jq-1.6+
 ---
 
 ![Demo](https://via.placeholder.com/600x200?text=KAICERT+Terminal+Demo)  
-*(Replace with an actual demo GIF/image in your repo!)*
