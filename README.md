@@ -26,7 +26,7 @@ brew install curl jq
 ### **2. Clone the Repository**  
 ```bash  
 git clone https://github.com/mainajackson95/kaicert.git  
-cd KAICERT  
+cd kaicert  
 ```  
 
 ### **3. Make the Script Executable**  
